@@ -1,4 +1,4 @@
 {
   "متن": "MAX APP",
-  "تصویر": "https://uupload.ir/view/ff6m1_1080p_s126.mp4/"
+  "تصویر": "https://s18.picofile.com/file/8435549342/uNSfV_480p.mp4.html"
 }
