@@ -1,4 +1,4 @@
 {
   "متن": "MAX APP",
-  "تصویر": "<div id="63017875963"><script type="text/JavaScript" src="https://www.aparat.com/embed/vjh9e?data[rnddiv]=63017875963&data[responsive]=yes"></script></div>"
+  "تصویر": "<amp-iframe width="640" height="360" sandbox="allow-scripts allow-same-origin" layout="responsive" frameborder="0" src="https://www.aparat.com/video/video/embed/videohash/vjh9e/vt/frame?isamp"></amp-iframe>
 }
