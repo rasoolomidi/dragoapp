@@ -1,4 +1,4 @@
 {
   "متن": "MAX APP",
-  "تصویر": "https://m.aparat.com/v/vjh9e"
+  "تصویر": "<div id="63017875963"><script type="text/JavaScript" src="https://www.aparat.com/embed/vjh9e?data[rnddiv]=63017875963&data[responsive]=yes"></script></div>"
 }
