@@ -1,4 +1,4 @@
 {
   "متن": "MAX APP",
-  "تصویر": "https://www.aparat.com/video/video/embed/videohash/vjh9e/vt/frame?isamp"
+  "تصویر": " https://s4.uupload.ir/files/img_20210602_012515_292_zq71.jpg"
 }
